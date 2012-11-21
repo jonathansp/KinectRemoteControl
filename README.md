@@ -1,6 +1,6 @@
 ## **Aplicação do reconhecimento de gestos utilizando kinect como controle de TV**
-#### Jonathan Simon Prates
-####Orientador: Prof. Me. Átila Bohlke Vasconcelos
+#####Jonathan Simon Prates
+#####Orientador: Prof. Me. Átila Bohlke Vasconcelos
 
 Faculdade de Sistemas de Informação – Centro Universitário Ritter dos Reis
 
