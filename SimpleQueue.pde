@@ -65,4 +65,3 @@ public class SimpleQueue<E> {
     list = new LinkedList<E>();
   }
 }
-
