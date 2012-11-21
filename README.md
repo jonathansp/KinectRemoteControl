@@ -6,7 +6,7 @@ Faculdade de Sistemas de Informação – Centro Universitário Ritter dos Reis
 
 CEP 90.840-440 – Porto Alegre – RS – Brasil
 
-jonathan.simonprates@gmail.com, abvasconcelos@gmail.com
+jonathan.simonprates at gmail.com, abvasconcelos at gmail.com
 
 O objetivo deste trabalho é estudar a adaptação dos usuários com um modo de interação com televisores através do reconhecimento de gestos, substituindo o controle remoto. Com o advento de dispositivos de reconhecimento de gestos com sensores de profundidade de baixo custo e uma vasta gama de bibliotecas de programação disponíveis, pesquisas como esta estão se tornando possível mais facilmente. Este trabalho trata-se de um ambiente simulado por computador, utilizando uma aplicação e o sensor Kinect, que juntos serão capazes de reconhecer o comportamento do usuário e enviar ao televisor o comando mais apropriado de acordo como o gesto reconhecido.
 
