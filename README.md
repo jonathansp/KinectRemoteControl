@@ -1,35 +1,28 @@
-## **Aplicação do reconhecimento de gestos utilizando kinect como controle de TV**
-#####Jonathan Simon Prates
-#####Orientador: Prof. Me. Átila Bohlke Vasconcelos
+Using kinect and user's gestures as TV remote.
+--
+
+**Author: Jonathan Simon Prates**
+
+**Prof. Me. Átila Bohlke Vasconcelos**
+
+*Original name: Aplicação do reconhecimento de gestos utilizando kinect como controle de TV.*
 
 Faculdade de Sistemas de Informação – Centro Universitário Ritter dos Reis
 
-CEP 90.840-440 – Porto Alegre – RS – Brasil
+This work aims to study the users' adaptation to the use of gestures as a substitute for the television's remote control. Depth sensors devices have become cheaper and a wide variety of software libraries available are available compared with the last decade. In this work, we set up a computer simulated environment in order to capture users' gestures. We were able to recognize the user behavior and send to the television the most appropriate command according to the command.
 
-jonathan.simonprates at gmail.com, abvasconcelos at gmail.com
+Based on the results, we concluded that the mode of interaction gestures should not be the only method of interaction available due environment restrictions, such as light, space, awkward objects on the scene and also, physical and/or cognitive limitations.
 
-O objetivo deste trabalho é estudar a adaptação dos usuários com um modo de interação com televisores através do reconhecimento de gestos, substituindo o controle remoto. Com o advento de dispositivos de reconhecimento de gestos com sensores de profundidade de baixo custo e uma vasta gama de bibliotecas de programação disponíveis, pesquisas como esta estão se tornando possível mais facilmente. Este trabalho trata-se de um ambiente simulado por computador, utilizando uma aplicação e o sensor Kinect, que juntos serão capazes de reconhecer o comportamento do usuário e enviar ao televisor o comando mais apropriado de acordo como o gesto reconhecido.
+[Demonstration](http://www.youtube.com/watch?v=3uO5I8NI37Y)
 
-DEMO: [http://www.youtube.com/watch?v=3uO5I8NI37Y](http://www.youtube.com/watch?v=3uO5I8NI37Y)
+[Term Paper (pt-br)](https://github.com/jonathansp/KinectRemoteControl/blob/master/tcc2.pdf)
 
-**Devices:**
+**How to cite**: PRATES, J. S. *Aplicação do reconhecimento de gestos utilizando kinect como controle de TV*. Faculdade de Sistemas de Informação – Centro Universitário Ritter dos Reis. Porto Alegre, 2012.
 
-[Usbuirt](http://www.usbuirt.com/)
+**Lattes**: [http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4970874A1](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4970874A1)
 
-[Capture usb device](http://bit.ly/w8zlaI)
+**Devices:** [Usbuirt](http://www.usbuirt.com/), [Capture usb device](http://bit.ly/w8zlaI), [Kinect](http://www.xbox.com/pt-BR/Kinect)
 
-[Kinect](http://www.xbox.com/pt-BR/Kinect)
+**Language:** [Processing 1.5](http://processing.org/download/)
 
-**Linguagem:**
-
-[Processing 1.5](http://processing.org/download/)
-
-**Bibliotecas utilizadas:**
-
-[uirtjbin](http://sourceforge.net/projects/uirt-j/)
-
-[SimpleOpenNI](http://code.google.com/p/simple-openni/)
-
-[JMyron0025](http://webcamxtra.sourceforge.net/download.shtml)
-
-[fullscreen](http://bit.ly/Tfr6kt)
+**Libraries:** [uirtjbin](http://sourceforge.net/projects/uirt-j/), [SimpleOpenNI](http://code.google.com/p/simple-openni/), [JMyron0025](http://webcamxtra.sourceforge.net/download.shtml), [fullscreen](http://bit.ly/Tfr6kt)
